@@ -6,7 +6,7 @@
         alt   = "Estat_2020.2"
    >
    <h1 align = "center">
-      Estat_2020.2
+      Estat 2020.2
    </h1>
 </p>
 
