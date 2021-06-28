@@ -1,8 +1,11 @@
 # Lição 01
 
 ## Instruções
+
 Colocar seu nome na lista abaixo. </br>
-**Obs.:** Lembre-me de colocar o sinal "`-`" (sinal de "menos") antes do seu nome.
+**Obs.:** 
+1. Essa Lição vale *100 pontos* e deverá ser entregue até o dia **06/07/2021**;
+2. Lembre-me de colocar o sinal "`-`" (sinal de "menos") antes do seu nome.
 Além disso, deixe um espaço em branco entre seu nome e este sinal.
 Veja o exemplo.
 
