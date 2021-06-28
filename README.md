@@ -10,4 +10,4 @@
    </h1>
 </p>
 
-> Este repositório servirá de apoio para a disciplina `Indrodução à Estatística` ofertada no [Centro de Formação de Professores](https://www.ufrb.edu.br/cfp/) da [Universidade Federal do Recôncavo da Bahia](https://www.ufrb.edu.br/portal/), para os cursos de Licenciarura em Matemática ou Licenciatura em Química.
+> Este repositório servirá de apoio para a disciplina `Indrodução à Estatística` ofertada no [Centro de Formação de Professores](https://www.ufrb.edu.br/cfp/) da [Universidade Federal do Recôncavo da Bahia](https://www.ufrb.edu.br/portal/), para o curso de Licenciatura em Química.
