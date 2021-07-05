@@ -12,7 +12,7 @@
 
 > Este repositório servirá de apoio para a disciplina `Indrodução à Estatística` ofertada no [Centro de Formação de Professores](https://www.ufrb.edu.br/cfp/) da [Universidade Federal do Recôncavo da Bahia](https://www.ufrb.edu.br/portal/), para o curso de Licenciatura em Química.
 
-# 1. Algo sobre a Lição 01
+# 1. Algo sobre a Lição GitHub 01
 
 Nessa lição, apenas quero que você tenha um primeiro contato com o GitHub.
 
