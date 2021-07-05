@@ -12,3 +12,7 @@ Veja o exemplo.
 ## Lista de Participantes
 
 - Ícaro Vidal Freire
+- Michely Santos Piropo
+
+
+
