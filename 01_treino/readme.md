@@ -13,3 +13,4 @@ Veja o exemplo.
 
 - Ícaro Vidal Freire
 - Magno Mota Pereira
+- Luis Fernando dos Santos de Brito
