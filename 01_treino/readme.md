@@ -12,3 +12,4 @@ Veja o exemplo.
 ## Lista de Participantes
 
 - Ícaro Vidal Freire
+- Naiara Ferreira de Jesus
