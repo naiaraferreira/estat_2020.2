@@ -27,3 +27,4 @@ Esse espaço desdina-se à organização das notas das atividades da disciplina 
 matricula | licao_01
 --- | ---
 2020111477	| 100
+2019219674  | 100
