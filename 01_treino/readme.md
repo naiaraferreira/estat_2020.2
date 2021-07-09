@@ -12,4 +12,7 @@ Veja o exemplo.
 ## Lista de Participantes
 
 - Ícaro Vidal Freire
+- Magno Mota Pereira
+- Luis Fernando dos Santos de Brito
+- Érica de Brito Guimarães 
 - Naiara Ferreira de Jesus
