@@ -15,3 +15,4 @@ Veja o exemplo.
 - Magno Mota Pereira
 - Luis Fernando dos Santos de Brito
 - Érica de Brito Guimarães 
+- Naiara Ferreira de Jesus
