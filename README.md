@@ -44,7 +44,7 @@ Esse espaço desdina-se à organização das notas das atividades da disciplina 
 
 **Obs.:** Será atualizada a cada atividade.
 
-matricula  | licao_01 | licao_02 | licao_03
+matricula  | licaoGH_01 | licaoGH_02 | licaoGH_03
 ---        | ---      | ---      | --- 
 2019203360 |          |          |
 201512098  |          |          |
