@@ -16,4 +16,5 @@ Veja o exemplo.
 - Luis Fernando dos Santos de Brito
 - Érica de Brito Guimarães 
 - Naiara Ferreira de Jesus
-- Marcelo Santos Rocha, Licenciatura em Química 
+- Michely Santos Piropo
+- Marcelo Santos Rocha
