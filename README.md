@@ -12,29 +12,29 @@
 
 > Este repositório servirá de apoio para a disciplina `Indrodução à Estatística` ofertada no [Centro de Formação de Professores](https://www.ufrb.edu.br/cfp/) da [Universidade Federal do Recôncavo da Bahia](https://www.ufrb.edu.br/portal/), para o curso de Licenciatura em Química.
 
-# 1. Algo sobre a Lição GitHub 01 :memo:
+# :memo: Algo sobre a Lição GitHub 01 
 
 Nessa lição, apenas quero que você tenha um primeiro contato com o GitHub.
 
 Criei uma pasta nesse repositório ([`01_treino`](/01_treino)) para que você coloque SEU NOME completo em uma lista não enumerada.
 
-:exclamation: DATA DE ENTREGA : `17/07/2021`.
+:warning: DATA DE ENTREGA : `17/07/2021`.
 
-# 2. Algo sobre a Lição GitHub 02 :memo:
+# :memo: Algo sobre a Lição GitHub 02
 
 Nessa lição, basicamente, quero que vocês escrevam, em Markdown, algo no seus respectivos repositórios e disponibilizem no repositório de nossa disciplina, no GitHub.
 
 Vá até a pasta [`02_licaoGH-02_markdown`](/02_licaoGH-02_markdown) e façam as modificações necessárias.
 
-:exclamation: DATA DE ENTREGA: `20/07/2021`.
+:warning: DATA DE ENTREGA: `20/07/2021`.
 
-# 3. Algo sobre a Lição GitHub 03 :memo:
+# :memo: Algo sobre a Lição GitHub 03
 
 Nessa lição, você conhecerá alguns templates disponíveis no RStudio, bem como sriar um *script* no `R`.
 
 Vá até a pasta [`03_licaoGH-03/`](/03_licaoGH-03) e faça as modificações necessárias.
 
-:exclamation: DATA DE ENTREGA: `20/07/2021`.
+:warning: DATA DE ENTREGA: `20/07/2021`.
 
 # Tabela de Notas
 
