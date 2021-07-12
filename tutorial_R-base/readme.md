@@ -9,8 +9,8 @@
 
 Para usá-lo:
 
-- Abra o `estat_2020.1.Rproj` (que está no diretório principal desse repositório);
-- Vá até a pasta `04_tutorial_R-Base` e selecione o arquivo `tutorial_R-base.Rmd`;
+- Abra o `estat_2020.2.Rproj` (que está no diretório principal desse repositório);
+- Vá até a pasta `tutorial_R-Base` e selecione o arquivo `tutorial_R-base.Rmd`;
 - Clique no botão `Run Document`.
 
 Pronto!
