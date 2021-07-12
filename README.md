@@ -36,6 +36,8 @@ Vá até a pasta [`03_licaoGH-03/`](/03_licaoGH-03) e faça as modificações ne
 
 DATA DE ENTREGA: `20/07/2021` :exclamation:
 
+---
+
 # :chart_with_upwards_trend: Tabela de Notas
 
 Esse espaço desdina-se à organização das notas das atividades da disciplina no GitHub.
