@@ -16,3 +16,6 @@ Veja o exemplo.
 - Luis Fernando dos Santos de Brito
 - Érica de Brito Guimarães 
 - Naiara Ferreira de Jesus
+- Michely Santos Piropo
+- Marcelo Santos Rocha
+- Jeovane Borges silva dos Santos
