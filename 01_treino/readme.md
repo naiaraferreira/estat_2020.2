@@ -12,9 +12,10 @@ Veja o exemplo.
 ## Lista de Participantes
 
 - Ícaro Vidal Freire
-- 'Michely Santos Piropo, Quimica.'
 - Magno Mota Pereira
 - Luis Fernando dos Santos de Brito
 - Érica de Brito Guimarães 
 - Naiara Ferreira de Jesus
-
+- Michely Santos Piropo
+- Marcelo Santos Rocha
+- Jeovane Borges silva dos Santos
