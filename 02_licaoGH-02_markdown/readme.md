@@ -2,5 +2,7 @@
 
 Coloque seu nome e o *link* para a lição que se encontra em seu repositório.
 
-nome | url
---- | ---
+nome                  | url
+----------------------|-------------------------------------------
+Michely Santos Piropo | https://github.com/Michelyy/texto-markdown
+                     
