@@ -26,7 +26,7 @@ Nessa lição, basicamente, quero que vocês escrevam, em Markdown, algo no seus
 
 Vá até a pasta [`02_licaoGH-02_markdown`](/02_licaoGH-02_markdown) e façam as modificações necessárias.
 
-DATA DE ENTREGA: `20/07/2021` :exclamation:
+DATA DE ENTREGA: `20/07/2021` :white_check_mark:
 
 # :memo: Algo sobre a Lição GitHub 03
 
@@ -34,7 +34,7 @@ Nessa lição, você conhecerá alguns templates disponíveis no RStudio, bem co
 
 Vá até a pasta [`03_licaoGH-03/`](/03_licaoGH-03) e faça as modificações necessárias.
 
-DATA DE ENTREGA: `20/07/2021` :exclamation:
+DATA DE ENTREGA: `20/07/2021` :white_check_mark:
 
 ---
 
@@ -49,7 +49,7 @@ matricula  | licaoGH_01 | licaoGH_02 | licaoGH_03
 2019203360 |          |          |
 201512098  |          |          |
 2019203487 | 100      |          |
-201611266  |          |          |
+201611266  | 100      |          |
 2019219674 | 100      |          |
 201611289  |          |          |
 2020111477 | 100      |          |
