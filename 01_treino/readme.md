@@ -18,3 +18,4 @@ Veja o exemplo.
 - Naiara Ferreira de Jesus
 - Michely Santos Piropo
 - Marcelo Santos Rocha
+- Jeovane Borges silva dos Santos
