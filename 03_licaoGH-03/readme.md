@@ -4,3 +4,4 @@ Coloque seu nome e o *link* que direciona para a atividade realizada em seu repo
 
 nome | *link*
 ---  | ---
+Magno Mota|[Lição 03](https://github.com/Magno00/licao_03)
