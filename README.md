@@ -18,7 +18,7 @@ Nessa lição, apenas quero que você tenha um primeiro contato com o GitHub.
 
 Criei uma pasta nesse repositório ([`01_treino`](/01_treino)) para que você coloque SEU NOME completo em uma lista não enumerada.
 
-DATA DE ENTREGA : `17/07/2021` :exclamation:
+DATA DE ENTREGA : `17/07/2021` :bangbang:
 
 # :memo: Algo sobre a Lição GitHub 02
 
