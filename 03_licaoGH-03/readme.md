@@ -6,3 +6,4 @@ nome | *link*
 ---  | ---
 Magno Mota           | [Lição 03](https://github.com/Magno00/licao_03)
 Marcelo Santos Rocha | [licao_05](https://github.com/mrocha2111s/licao_05)
+Luis Fernando dos Santos de Brito | [Lição 03](https://github.com/fernando-lluis/licao_03)
