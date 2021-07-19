@@ -9,3 +9,4 @@ Magno Mota    | [Lição 02](https://github.com/Magno00/texto-markdown)
 Michely Santos Piropo | https://github.com/Michelyy/texto-markdown
 Naiara Ferreira de Jesus |[Lição 02](https://github.com/naiaraferreira/texto-markdown/blob/main/README.md)
 Marcelo Santos Rocha |[lição 2](https://github.com/mrocha2111s/texto-markdown)
+Jeovane |[liçao 2](https://github.com/jeovane6/texto-markdown.)
