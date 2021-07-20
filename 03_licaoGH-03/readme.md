@@ -8,4 +8,5 @@ nome                 | *link*
 Michely Santos Piropo| [lição 03](https://github.com/Michelyy/licaoGH_03)
 Magno Mota           | [Lição 03](https://github.com/Magno00/licao_03)
 Marcelo Santos Rocha | [licao_05](https://github.com/mrocha2111s/licao_05)
+Jeovane Borges silva dos santos|[licao3](https://github.com/jeovane6/licao-3)
 
