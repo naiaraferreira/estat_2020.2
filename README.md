@@ -18,7 +18,7 @@ Nessa lição, apenas quero que você tenha um primeiro contato com o GitHub.
 
 Criei uma pasta nesse repositório ([`01_treino`](/01_treino)) para que você coloque SEU NOME completo em uma lista não enumerada.
 
-DATA DE ENTREGA : `17/07/2021` :exclamation:
+DATA DE ENTREGA : `17/07/2021` :bangbang:
 
 # :memo: Algo sobre a Lição GitHub 02
 
@@ -49,10 +49,10 @@ matricula  | licaoGH_01 | licaoGH_02 | licaoGH_03
 2019203360 |          |          |
 201512098  |          |          |
 2019203487 | 100      |          |
-201611266  | 100      |          |
-2019219674 | 100      | 100      |
+201611266  | 100      | 100      |
+2019219674 | 100      | 100      | 100
 201611289  |          |          |
 2020111477 | 100      | 100      | 100
-2017212290 | 100      |          |
-2020107053 | 100      | 100      |
-2020117819 | 100      |          |
+2017212290 | 100      | 100      | 100
+2020107053 | 100      | 100      | 100
+2020117819 | 100      | 100      |
