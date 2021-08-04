@@ -4,5 +4,5 @@ Coloquem o nome completo e o *link* corretamente.
 
 ---
 
-nome | *link*
+Marcelo Santos Rocha | (https://github.com/mrocha2111s/01_atividade-avaliativa)
 --- | ---
