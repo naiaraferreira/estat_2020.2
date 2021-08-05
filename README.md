@@ -52,7 +52,7 @@ Nessa lição você deverá produzir um arquivo `.Rmd`, usando o **GitHub Docume
 Tal Gist está repleto de instruções para rodar e completar códigos.
 Isso servirá para análise de certo \textit{dataset} com as ferramentas do pacote \verb|dplyr|.
 
-Vá até a pasta [`05_licaoGH-04/`](/04_licaoGH-04) e faça as modificações necessárias.
+Vá até a pasta [`05_licaoGH-04`](/05_licaoGH-04) e faça as modificações necessárias.
 
 DATA DE ENTREGA: `14/08/2021` :white_check_mark:
 
