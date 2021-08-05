@@ -47,7 +47,7 @@ DATA DE ENTREGA: `04/08/2021` :bangbang:
 
 # :memo: Algo sobre a Lição GitHub 04
 
-Nessa lição você deverá produzir um arquivo `.Rmd`, usando o **GitHub Document (Markdown)**, junto com os códigos disponíveis no Gist: [04_licaoGH_seu-nome]<https://gist.github.com/icaro-freire/d45175e3c8497164ce415c713e624c7d>.
+Nessa lição você deverá produzir um arquivo `.Rmd`, usando o **GitHub Document (Markdown)**, junto com os códigos disponíveis no Gist: [04_licaoGH_seu-nome](https://gist.github.com/icaro-freire/d45175e3c8497164ce415c713e624c7d).
 
 Tal Gist está repleto de instruções para rodar e completar códigos.
 Isso servirá para análise de certo \textit{dataset} com as ferramentas do pacote \verb|dplyr|.
