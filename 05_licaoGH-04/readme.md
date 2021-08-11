@@ -2,5 +2,4 @@
 
 Coloque seu nome e o *link* que direciona para a atividade realizada em seu repositório.
 
-nome | link
----  | --- 
+Marcelo Santos Rocha | [lição 4](  https://github.com/mrocha2111s/04_licaoGH)   
