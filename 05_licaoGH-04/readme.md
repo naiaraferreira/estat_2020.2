@@ -4,3 +4,4 @@ Coloque seu nome e o *link* que direciona para a atividade realizada em seu repo
 
 nome | link
 ---  | --- 
+Luis Fernando dos Santos de Brito | [github](https://github.com/fernando-lluis/05_licaoGH-04)
