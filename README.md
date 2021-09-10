@@ -56,6 +56,10 @@ Vá até a pasta [`05_licaoGH-04`](/05_licaoGH-04) e faça as modificações nec
 
 DATA DE ENTREGA: `14/08/2021` :white_check_mark:
 
+# :memo: Algo sobre a Lição GitHub 05
+
+# :boom: Prova 01
+
 ---
 
 # :chart_with_upwards_trend: Tabela de Notas
@@ -64,15 +68,15 @@ Esse espaço desdina-se à organização das notas das atividades da disciplina 
 
 **Obs.:** Será atualizada a cada atividade.
 
-matricula  | licaoGH_01 | licaoGH_02 | licaoGH_03
----        | ---      | ---      | --- 
-2019203360 |          |          |
-201512098  |          |          |
-2019203487 | 100      |          |
-201611266  | 100      | 100      | 100
-2019219674 | 100      | 100      | 100
-201611289  |          |          |
-2020111477 | 100      | 100      | 100
-2017212290 | 100      | 100      | 100
-2020107053 | 100      | 100      | 100
-2020117819 | 100      | 100      | 100
+matricula  | licaoGH_01 | licaoGH_02 | licaoGH_03 | licaoGH_04 | licaoGH_05 | atv_aval_01 | prova_01
+---        | ---        | ---        | ---        | ---        | ---        | ---         |---
+2019203360 |            |            |            |            |            |             |
+201512098  |            |            |            |            |            |             |
+2019203487 | 100        |            |            |            |            |             |
+201611266  | 100        | 100        | 100        |            |            |             |
+2019219674 | 100        | 100        | 100        |            |            |             |
+201611289  |            |            |            |            |            |             |
+2020111477 | 100        | 100        | 100        |            |            |             |
+2017212290 | 100        | 100        | 100        |            |            |             |
+2020107053 | 100        | 100        | 100        |            |            |             |
+2020117819 | 100        | 100        | 100        |            |            |             |
