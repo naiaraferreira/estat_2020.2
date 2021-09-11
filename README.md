@@ -59,6 +59,17 @@ DATA DE ENTREGA: `14/08/2021` :white_check_mark:
 # :memo: Algo sobre a Lição GitHub 05
 
 # :boom: Prova 01
+Para realizar a prova, você deve responder as questões em um arquivo `rnotebook`, disponível no gist [index.Rmd](https://gist.github.com/icaro-freire/bc0eb4e2f6eee72371480920298ff1fc); criar uma página no GitHub Pages e disponibilizar o *link* (bem como seu nome) no readme.md, que se encontra na pasta [07_prova-01](/07_prova-01_readme.md), deste repositório.
+
+A prova encontra-se no *link* abaixo:
+
+<p align="center">
+  <a href="https://icaro-freire.github.io/estat_2020.2/01_prova.nb.html"> 
+     :link: https://icaro-freire.github.io/estat_2020.2/01_prova.nb.html 
+  </a>
+</p>
+
+DATA DE ENTREGA: `15/08/2021` :white_check_mark:
 
 ---
 
